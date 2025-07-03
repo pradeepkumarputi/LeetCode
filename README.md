@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradeepkumarputi/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3778-transform-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/3778-transform-array-by-parity) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
