@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pradeepkumarputi/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3778-transform-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradeepkumarputi/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3778-transform-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/3778-transform-array-by-parity) |
