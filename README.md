@@ -39,4 +39,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/pradeepkumarputi/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
