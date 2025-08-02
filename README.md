@@ -10,6 +10,7 @@
 | [0898-transpose-matrix](https://github.com/pradeepkumarputi/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/pradeepkumarputi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3778-transform-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
