@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradeepkumarputi/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/pradeepkumarputi/LeetCode/tree/master/0898-transpose-matrix) |
@@ -20,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
