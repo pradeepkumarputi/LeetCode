@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/pradeepkumarputi/LeetCode/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/pradeepkumarputi/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pradeepkumarputi/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
