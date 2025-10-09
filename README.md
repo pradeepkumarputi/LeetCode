@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pradeepkumarputi/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/pradeepkumarputi/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/pradeepkumarputi/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradeepkumarputi/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pradeepkumarputi/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
