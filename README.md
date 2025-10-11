@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pradeepkumarputi/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pradeepkumarputi/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pradeepkumarputi/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -46,11 +49,13 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0169-majority-element) |
 | [3778-transform-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pradeepkumarputi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
