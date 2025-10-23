@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/pradeepkumarputi/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pradeepkumarputi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/pradeepkumarputi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/pradeepkumarputi/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/pradeepkumarputi/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/pradeepkumarputi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/pradeepkumarputi/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
