@@ -149,4 +149,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pradeepkumarputi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/pradeepkumarputi/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/pradeepkumarputi/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
