@@ -105,6 +105,7 @@
 | [0048-rotate-image](https://github.com/pradeepkumarputi/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/pradeepkumarputi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -155,8 +156,13 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepkumarputi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/pradeepkumarputi/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/pradeepkumarputi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/pradeepkumarputi/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/pradeepkumarputi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
