@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeepkumarputi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/pradeepkumarputi/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@
 | [0013-roman-to-integer](https://github.com/pradeepkumarputi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepkumarputi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/pradeepkumarputi/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/pradeepkumarputi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pradeepkumarputi/LeetCode/tree/master/0217-contains-duplicate) |
@@ -110,6 +112,7 @@
 | [0070-climbing-stairs](https://github.com/pradeepkumarputi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pradeepkumarputi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeepkumarputi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/pradeepkumarputi/LeetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pradeepkumarputi/LeetCode/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -177,6 +180,7 @@
 | [0008-string-to-integer-atoi](https://github.com/pradeepkumarputi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pradeepkumarputi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pradeepkumarputi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/pradeepkumarputi/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepkumarputi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pradeepkumarputi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pradeepkumarputi/LeetCode/tree/master/0242-valid-anagram) |
@@ -199,6 +203,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradeepkumarputi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/pradeepkumarputi/LeetCode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -225,6 +230,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pradeepkumarputi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pradeepkumarputi/LeetCode/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
