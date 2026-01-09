@@ -30,6 +30,7 @@
 | [0229-majority-element-ii](https://github.com/pradeepkumarputi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pradeepkumarputi/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pradeepkumarputi/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/pradeepkumarputi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -109,6 +110,7 @@
 | [0070-climbing-stairs](https://github.com/pradeepkumarputi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pradeepkumarputi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeepkumarputi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pradeepkumarputi/LeetCode/tree/master/0322-coin-change) |
 ## Math
 |  |
@@ -145,6 +147,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pradeepkumarputi/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/pradeepkumarputi/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
