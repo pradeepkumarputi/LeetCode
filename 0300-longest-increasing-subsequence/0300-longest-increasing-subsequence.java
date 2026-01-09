@@ -1,7 +1,10 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int[] res = new int[nums.length];
-        
+        //initialize index with 1
+        for(int i=0;i<res.length;i++){
+            res[i]=1;
+        }
         //start first pointer
         for(int i=1;i<nums.length;i++){
             //start senond pointer 
@@ -20,6 +23,6 @@ class Solution {
                 maxInd=i;
             }
         }
-        return res[maxInd]+1;
+        return res[maxInd];
     }
 }
