@@ -112,6 +112,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeepkumarputi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pradeepkumarputi/LeetCode/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pradeepkumarputi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/pradeepkumarputi/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/pradeepkumarputi/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pradeepkumarputi/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/pradeepkumarputi/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
