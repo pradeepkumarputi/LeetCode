@@ -235,4 +235,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/pradeepkumarputi/LeetCode/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/pradeepkumarputi/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
