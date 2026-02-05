@@ -35,13 +35,11 @@ public class Solution {
                 temp2=temp2.next;
             }
         }
-        while(temp1 != null && temp2!=null){
-            if(temp1 == temp2){
-                return temp1;
-            }
+        while(temp1 != temp2){
+            
             temp1=temp1.next;
             temp2=temp2.next;
         }
-        return null;
+        return temp1;
     }
 }
