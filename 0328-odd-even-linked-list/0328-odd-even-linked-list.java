@@ -13,19 +13,19 @@ class Solution {
          if (head == null || head.next == null)
             return head;
 
-        ListNode odd = head;
-        ListNode even = head.next;
-        ListNode evenHead = even;
+        ListNode fast = head;
+        ListNode slow = head.next;
+        ListNode evenHead = slow;
 
-        while (even != null && even.next != null) {
-            odd.next = even.next;
-            odd = odd.next;
+        while (slow != null && slow.next != null) {
+            fast.next = slow.next;
+            fast = fast.next;
 
-            even.next = odd.next;
-            even = even.next;
+            slow.next = fast.next;
+            slow = slow.next;
         }
 
-        odd.next = evenHead;
+        fast.next = evenHead;
         return head;
     }
 }
