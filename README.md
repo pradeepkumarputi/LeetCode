@@ -36,6 +36,7 @@
 | [0485-max-consecutive-ones](https://github.com/pradeepkumarputi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pradeepkumarputi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/pradeepkumarputi/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/pradeepkumarputi/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pradeepkumarputi/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/pradeepkumarputi/LeetCode/tree/master/0898-transpose-matrix) |
@@ -125,6 +126,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pradeepkumarputi/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/pradeepkumarputi/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/pradeepkumarputi/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/pradeepkumarputi/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
